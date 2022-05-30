@@ -92,6 +92,10 @@ body{
     padding-right: 120px;
     padding-bottom: 10px;
 }
+.social{
+    height: 50px;
+    width: 50px;
+}
 @media (max-width: 991px){
     .nav-link{
         text-align: center;
