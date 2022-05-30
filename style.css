@@ -8,6 +8,36 @@ body{
 #link{
     color: white;
 }
+#link-fb{
+    color: #3b5998;
+}
+#link-fb:hover{
+    color: #193269;
+}
+#link-tw{
+    color: #00acee;
+}
+#link-tw:hover{
+    color: #01425c;
+}
+#link-spotify{
+    color: #1DB954;
+}
+#link-spotify:hover{
+    color: #13612e;
+}
+#link-ig{
+    color: #E1306C;
+}
+#link-ig:hover{
+    color: #FD1D1D;
+}
+#link-yt{
+    color: #FF0000;
+}
+#link-yt:hover{
+    color: #a70000;
+}
 #link:hover{
     color: gray;
 }
@@ -48,10 +78,19 @@ body{
     padding: 10px;
     text-align: center;
     color: white;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 .meet-title{
     text-align: center;
     color: white;
+}
+#about-photo{
+    width:100%;
+    margin: 0;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 10px;
 }
 @media (max-width: 991px){
     .nav-link{
