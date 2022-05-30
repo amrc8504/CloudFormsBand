@@ -48,7 +48,6 @@
     margin-top: 0;
     padding: 10px;
     text-align: center;
-    background-image: linear-gradient(to bottom right, red, yellow);
 }
 @media (max-width: 991px){
     .nav-link{
